@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dimpal</h1>
+<h1 align="center">Hey 👋, I'm Dimpal</h1>
 <h3 align="center">Passionate analytical thinker with result-driven solutions</h3>
 
 - 🔭 I’m currently working on **Kickstarter Crowdfunding project**
@@ -13,6 +13,5 @@
 
 - ⚡ Fun fact **Analyzer but Creative personality**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
